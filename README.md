@@ -3,10 +3,7 @@
 - 🌱 一个行政管理大一的学生
 - 💞️ 会一点点Python和C++
 - 📫 目前在学Python
-- 🧑‍💻 Main Programming Languages
--     C++ Markdown Python Shell
-- 🕹 Games
--     Steam Minecraft
+
 
 
 <!---
